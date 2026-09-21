@@ -1181,4 +1181,3 @@ Joias finas & acessórios
 """,
 unsafe_allow_html=True
 )
-```
