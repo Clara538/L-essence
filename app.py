@@ -8,7 +8,7 @@ import os
 # =========================================================
 
 st.set_page_config(
-    page_title="Maison Élégance",
+    page_title="L'essence",
     page_icon="💎",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -657,7 +657,7 @@ df["Quantidade"] = pd.to_numeric(
 st.sidebar.markdown(
 """
 <div class="logo-title">
-💎 Maison Élégance
+💎 L'essence
 </div>
 
 <div class="logo-subtitle">
@@ -686,7 +686,7 @@ menu = st.sidebar.radio(
 st.sidebar.markdown("---")
 
 st.sidebar.caption(
-    "Maison Élégance • 2026"
+    "L'essence • 2026"
 )
 
 
@@ -1174,7 +1174,7 @@ st.markdown(
 """
 <div class="footer">
 
-💎 Maison Élégance<br>
+💎 L'essence<br>
 Joias finas & acessórios
 
 </div>
